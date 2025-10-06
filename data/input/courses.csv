@@ -1,0 +1,11 @@
+course_code,course_name,L,T,P,credits,instructor_id,batch_id
+CS301,Data Structures,3,1,2,4,PROF001,3CSE-A
+CS302,Algorithms,3,1,0,4,PROF002,3CSE-A
+MA201,Discrete Mathematics,3,1,0,4,PROF003,3CSE-A
+CS303,Database Systems,3,0,2,4,PROF006,3CSE-A
+EC201,Digital Electronics,3,1,2,4,PROF004,3ECE-A
+PH101,Physics,3,1,2,4,PROF005,3ECE-A
+CS201,Programming,3,1,2,4,PROF001,2CSE-A
+MA101,Calculus,3,1,0,4,PROF007,2CSE-A
+CS304,Operating Systems,3,1,2,4,PROF002,3CSE-B
+CS305,Computer Networks,3,0,2,4,PROF006,3CSE-B

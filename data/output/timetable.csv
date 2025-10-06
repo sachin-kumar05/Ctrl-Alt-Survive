@@ -1,0 +1,39 @@
+slot_id,day,time_slot,course_code,course_name,room_id,instructor_id,batch_id,session_type
+CS301-0,Monday,09:00-10:00,CS301,Data Structures,R101,PROF001,3CSE-A,Lecture
+CS301-1,Monday,10:00-11:00,CS301,Data Structures,R101,PROF001,3CSE-A,Lecture
+CS301-2,Monday,11:00-12:00,CS301,Data Structures,R101,PROF001,3CSE-A,Lecture
+CS301-3,Monday,14:00-15:00,CS301,Data Structures,L201,PROF001,3CSE-A,Tutorial
+CS302-0,Monday,15:00-16:00,CS302,Algorithms,R101,PROF002,3CSE-A,Lecture
+CS302-1,Monday,16:00-17:00,CS302,Algorithms,R101,PROF002,3CSE-A,Lecture
+CS302-2,Tuesday,09:00-10:00,CS302,Algorithms,R101,PROF002,3CSE-A,Lecture
+CS302-3,Tuesday,10:00-11:00,CS302,Algorithms,R101,PROF002,3CSE-A,Tutorial
+MA201-0,Tuesday,11:00-12:00,MA201,Discrete Mathematics,R101,PROF003,3CSE-A,Lecture
+MA201-1,Tuesday,14:00-15:00,MA201,Discrete Mathematics,R101,PROF003,3CSE-A,Lecture
+MA201-2,Tuesday,15:00-16:00,MA201,Discrete Mathematics,R101,PROF003,3CSE-A,Lecture
+MA201-3,Tuesday,16:00-17:00,MA201,Discrete Mathematics,R101,PROF003,3CSE-A,Tutorial
+CS303-0,Wednesday,09:00-10:00,CS303,Database Systems,R101,PROF006,3CSE-A,Lecture
+CS303-1,Wednesday,10:00-11:00,CS303,Database Systems,R101,PROF006,3CSE-A,Lecture
+CS303-2,Wednesday,11:00-12:00,CS303,Database Systems,R101,PROF006,3CSE-A,Lecture
+EC201-0,Monday,09:00-10:00,EC201,Digital Electronics,R102,PROF004,3ECE-A,Lecture
+EC201-1,Monday,10:00-11:00,EC201,Digital Electronics,R102,PROF004,3ECE-A,Lecture
+EC201-2,Monday,11:00-12:00,EC201,Digital Electronics,R102,PROF004,3ECE-A,Lecture
+EC201-3,Monday,14:00-15:00,EC201,Digital Electronics,L202,PROF004,3ECE-A,Tutorial
+PH101-0,Monday,15:00-16:00,PH101,Physics,R102,PROF005,3ECE-A,Lecture
+PH101-1,Monday,16:00-17:00,PH101,Physics,R102,PROF005,3ECE-A,Lecture
+PH101-2,Tuesday,09:00-10:00,PH101,Physics,R102,PROF005,3ECE-A,Lecture
+PH101-3,Tuesday,10:00-11:00,PH101,Physics,L201,PROF005,3ECE-A,Tutorial
+CS201-0,Monday,15:00-16:00,CS201,Programming,R103,PROF001,2CSE-A,Lecture
+CS201-1,Monday,16:00-17:00,CS201,Programming,R103,PROF001,2CSE-A,Lecture
+CS201-2,Tuesday,09:00-10:00,CS201,Programming,R103,PROF001,2CSE-A,Lecture
+CS201-3,Tuesday,10:00-11:00,CS201,Programming,L202,PROF001,2CSE-A,Tutorial
+MA101-0,Monday,09:00-10:00,MA101,Calculus,R103,PROF007,2CSE-A,Lecture
+MA101-1,Monday,10:00-11:00,MA101,Calculus,R103,PROF007,2CSE-A,Lecture
+MA101-2,Monday,11:00-12:00,MA101,Calculus,R103,PROF007,2CSE-A,Lecture
+MA101-3,Monday,14:00-15:00,MA101,Calculus,R101,PROF007,2CSE-A,Tutorial
+CS304-0,Monday,09:00-10:00,CS304,Operating Systems,R104,PROF002,3CSE-B,Lecture
+CS304-1,Monday,10:00-11:00,CS304,Operating Systems,R104,PROF002,3CSE-B,Lecture
+CS304-2,Monday,11:00-12:00,CS304,Operating Systems,R104,PROF002,3CSE-B,Lecture
+CS304-3,Monday,14:00-15:00,CS304,Operating Systems,L203,PROF002,3CSE-B,Tutorial
+CS305-0,Monday,15:00-16:00,CS305,Computer Networks,R104,PROF006,3CSE-B,Lecture
+CS305-1,Monday,16:00-17:00,CS305,Computer Networks,R104,PROF006,3CSE-B,Lecture
+CS305-2,Tuesday,09:00-10:00,CS305,Computer Networks,R104,PROF006,3CSE-B,Lecture

@@ -1,0 +1,9 @@
+# ATESS Requirements
+# Python 3.8+
+
+# No external dependencies required for basic functionality
+# All using Python standard library
+
+# Optional for enhanced features:
+# pandas>=1.3.0  # For advanced CSV handling
+# openpyxl>=3.0.0  # For Excel export support

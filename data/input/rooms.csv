@@ -1,0 +1,9 @@
+room_id,capacity,type,accessible
+R101,60,Lecture,yes
+R102,60,Lecture,no
+R103,40,Lecture,yes
+R104,40,Lecture,no
+L201,30,Lab,yes
+L202,30,Lab,no
+L203,30,Lab,yes
+S301,100,Seminar,yes
