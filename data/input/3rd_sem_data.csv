@@ -1,0 +1,21 @@
+Elective or Not,Fullsem or Half sem,COURSE CODE,COURSE TITLE,Faculty,Class Assistantants,Lab Assistantants ,L-T-P-S-C,Room No.,Lab Room NO.
+No,Half sem-1,MA262,Multivariate  Calcus,Dr. Somen B,Priyanka M Jakali,             ,3-1-0-0-2,C004,
+No,Half sem-2,MA261,Differential Equations,Dr. Anand Barangi,Srirangam Pujari,             ,3-1-0-0-2,C004,
+No,Fullsem,DS261,Statistical  Programming,Dr. Ramesh Athe,,"Rohit Rai,Neha Bharti",1-0-2-0-2,C203,
+No,Fullsem,DA262,Data Handling And Visualization ,Dr. Siddharth ,,"Basavaraj Choukimath,Priyanka M Jakali",2-0-2-0-3,C003,"L106,L107"
+No,Fullsem,CS304,Artifical Intelligence ,Dr. Animesh Chaturvedi,,Snehalatha S H,3-1-0-0-4,C203,
+No,Fullsem,CS307,Machine Learning ,Dr. Utkarsh Khaire,"Anil M Kabbur,
+Vinod Konnur",             ,3-0-2-0-4,C203,"L107,L208"
+No,Halfsem-1,HSS/IE,"Neuro-Linguistic Programming
+(NLP",Dr. Manjunath K V,,,1-0-0-0-1,C203,
+No,Halfsem-1,HSS/IE,Leadership,Dr. Jagadeesha R Bhat,,,1-0-0-0-1,C203,
+No,Halfsem-1,HSS/IE,Sociology for Innovation,Dr. Anushree kini,,,1-0-0-0-1,C203,
+No,Halfsem-1,HSS/IE,Social Impact of Technology,Dr. Rajesh Kumar,,,1-0-0-0-1,C203,
+NO,Halfsem-1,HSS/IE,Holistic Personality Development,Dr. Rajesh N S,,,1-0-0-0-1,C203,
+Yes,,EC251,Electronics System Design,Dr. Pankaj,,,3-1-0-0-2,C202,
+Yes,,EC252,Introduction of RFIC design.,Dr. Rajesh Kumar,,,3-1-0-0-2,C203,
+Yes,,NEW,"Introduction to  Embedded Signal
+Intelligence",Dr. Sibasankar Padhy,,,3-1-0-0-2,C303,
+Yes,,NEW,Electronic Systems Engineering,Dr. Mallikarjun Kande,,,3-1-0-0-2,C101,
+Yes,,CS152,Data Science with Python,Dr Abdul Wahid,,,3-1-0-0-2,C205,
+Yes,,ASD352,User Interactions and Experience Design,Dr. Sandesh P,,,3-0-2-0-4,C004,

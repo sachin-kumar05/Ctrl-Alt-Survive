@@ -1,0 +1,16 @@
+elective or not,Fullsem or Halfsem,COURSE CODE,COURSE TITLE,Faculty,Class Assisstants,Lab Assisstants,L-T-P-S-C,Room.No,Lab Room. No
+No,Fullsem,DS302,"Computer Communication
+Networks",Dr. Shirshendu Layek,,"Anil M Kabbur, Vinod Konnur",3-1-2-0-5,C204,"L106,L107"
+No,Fullsem,DS303,"Algorithms and Artificial
+Intelligence",Dr. Animesh Chaturvedi,,Snehalatha S H,3-1-0-0-4,C204,
+No,Fullsem,CS307,Machine Learning,Dr. Siddharth,,"Rohit Rai,Neha Bharti",3-0-2-04,C204,"L106,L107"
+Yes-1,Fullsem,CS463,Parallel computing,Dr. Pramod,,,3-1-0-0-4,C102,
+YES-1,fullsem,CS308,Compiler Design,Dr. Pavan Kumar,-,-,3-1-0-0-4,C104,-
+YES-1,fullsem,DS301,Graphs and Scoial Network,Dr. Utkarsh K,-,-,3-1-0-0-4,C204,-
+YES-1,fullsem,CS366,Advanced Algorithm Design,Dr. Suvadip,"Ashwini, Anil",-,3-1-0-0-4,C004,-
+,,,,,,,,,
+YES-2,fullsem,DS359,Full Stack Development,Dr. Manjunath K V,Vani Yelamali,-,3-1-0-0-4,C102,-
+YES-2,fullsem,EC355,Internet of Things,Dr. Prakash Pawar,-,-,3-1-0-0-4,C403,-
+YES-2,fullsem,EC364,Semiconductor Device Modeling,Dr. Pankaj Kumar,-,-,3-1-0-0-4,C204,-
+YES-2,fullsem,CS352,Cryptography & Information Security,Dr. Rajendra Hegadi,-,-,3-1-0-0-4,C104,-
+YES-2,fullsem,EC365,AI in Biomedical Signal Interpretation,Dr. Sibasankar Padhy,-,-,3-1-0-0-4,C404,-

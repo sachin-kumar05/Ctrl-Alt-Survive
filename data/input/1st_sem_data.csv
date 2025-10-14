@@ -1,0 +1,16 @@
+elective or not,fullsem or halfsem,COURSE CODE,COURSE TITLE,Faculty,Class Assisstants,Lab Assisstants,L-T-P-S-C,Room.No,Lab Room. No
+NO,halfsem-2,MA161,Statistics,Dr. Ramesh Athe,"Neha Bharti, Rohit Rai",,3-0-0-0-2,C004,-
+NO,halfsem-2,DS161,Introduction to DS and AI,Dr. Girish Revadigar,"Neha Bharti, Rohit Rai",,3-1-0-0-2,C004,-
+NO,halfsem-1,MA162,Probability,Dr. Chinmayananda,,,3-0-0-0-2,C004,-
+NO,halfsem-1,EC161,Digital Design,Dr. Prakash Pawar,"Gautami Sanjay Naik,Snehalatha S H",,3-0-2-0-2,C004,"L206,L207,L208"
+NO,fullsem,CS161,Problem Solving through Programming,Dr. Manjunath,,"Meghana Pujar, Aafrin Akil Khan",3-0-2-0-4,C002,"L106,L107"
+NO,fullsem,,Economics/IET,             -,,,3-0-0-0-3,C103/C004,-
+YES,-,PH151,Introduction to Quantum Physics,Dr. Ashwath Babu,,,3-1-0-0-2,C102,-
+YES,-,DS151,Linux for Engineers,Dr. Vivekraj,,,3-1-0-0-2,C104,-
+YES,-,New,Fundamentals of sensing and Control,Dr. Deepak KT,,,3-1-0-0-2,C201,-
+YES,-,HS157,Computational Musicology for Hindustani Music,Dr. Chandrika Kamat,,,3-1-0-0-1,,-
+YES,-,New,Kanada Kali-Nali,Dr. Anand B,,,3-1-0-0-2,C204,-
+YES,-,New,Leveraging IT for Social Good & CSR,Dr. Rajesh N S,,,3-1-0-0-2,C202,-
+YES,-,New,Basics of Design,Dr. Sandeh Phalke,,,3-1-0-0-2,C205,-
+YES,-,HS156,Holistic Personality Development,Dr. Rajesh N S,,,3-1-0-0-1,,-
+YES,-,CS151,Introduction to Cybersecurity,Dr. Girish Revadigar,,,3-1-0-0-2,C002,-
